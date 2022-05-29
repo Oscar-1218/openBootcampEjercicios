@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89e1ffb8-bc36-4e7d-b330-07ecb6197861" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicioUnoOpenBootcamp.iml" afterDir="false" />
-    </list>
+    <list default="true" id="89e1ffb8-bc36-4e7d-b330-07ecb6197861" name="Changes" comment="ejercicio uno de bootcamp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653770884010</updated>
     </task>
+    <task id="LOCAL-00001" summary="ejercicio uno de bootcamp">
+      <created>1653852681810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653852681810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercicio uno de bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio uno de bootcamp" />
   </component>
 </project>
